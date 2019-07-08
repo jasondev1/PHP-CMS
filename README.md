@@ -1,4 +1,4 @@
-PHP CMS System
+PHP Content Management System
 ===============================
 By Jason Espinoza
 
